@@ -14,7 +14,7 @@ Decided the project idea's description and the required components ! I did sever
 <br><br>
 Log #2 (6/8/2025 IST)- 2 AND 1/2 HOURS
 <br><br>
-Made the schematic for the project and also decided a new feature of radio channels for the project. Although it is not included in the schematic as I am not sure how I can implement this but first is to make the core local storage music function then i'll be moving to the radio function to explore more
+Made the schematic for the project and also decided a new feature of radio channels for the project. Although it is not included in the schematic as I am not sure how I can implement this but first is to make the core local storage music function then i'll be moving to the radio function to explore more.<br>
 ![Mp3Pod](https://github.com/user-attachments/assets/3c94bf71-d0c0-4b88-a561-71a7ef1dca71)
 
 <br><br>

@@ -1,3 +1,11 @@
+---
+title: "Mp3 Pod"
+author: "Adhyys"
+description: "A portable mp3 pod with bluetooth and storage upto 32 GBs"
+created_at: "2025-06-6"
+---
+
+
 <b>TOTAL HOURS : ROUGHLY 6</b>
 <br><br>
 Log #1 (6/7/2025 IST) - 3 HOURS:

@@ -3,4 +3,5 @@ My Project name is Mp3Pod. It is pocket-sized mp3 player retrieving ipod memorie
 
 <br>
 <h3>FULL BUDGET</h3>
+
 ![image](https://github.com/user-attachments/assets/c73b3809-7bb0-479e-ae58-babad56122ef)

@@ -1,4 +1,5 @@
-/TOTAL HOURS : ROUGHLY 6
+<b>TOTAL HOURS : ROUGHLY 6</b>
+<br><br>
 Log #1 (6/7/2025 IST) - 3 HOURS:
 <br>
 Decided the project idea's description and the required components ! I did several research on the component for the Mp3 POD and decided which of them are best and studied their pinouts and connections. Also Made a BOM

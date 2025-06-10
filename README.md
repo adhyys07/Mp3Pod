@@ -7,4 +7,5 @@ Note: I have 3D case planned for this project but first i need to build this pro
 <br>
 <h3>FULL BUDGET</h3>
 
-![image](https://github.com/user-attachments/assets/c73b3809-7bb0-479e-ae58-babad56122ef)
+![image](https://github.com/user-attachments/assets/5b50e2b9-62d5-4929-b169-29174d621b18)
+

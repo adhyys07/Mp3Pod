@@ -14,6 +14,8 @@ Note: I have 3D case planned for this project but first i need to build this pro
 
 <br>
 
+<h3>Schematics !!</h3>
+
 ![image](https://github.com/user-attachments/assets/03b5afa6-a5a2-40db-84bf-98d4bbb430a2)
 
 What Things Will Go where !!

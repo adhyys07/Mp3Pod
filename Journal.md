@@ -6,7 +6,7 @@ created_at: "2025-06-6"
 ---
 
 
-<b>TOTAL HOURS : ROUGHLY 6</b>
+<b>TOTAL HOURS : ROUGHLY 10</b>
 <br><br>
 Log #1 (6/7/2025 IST) - 3 HOURS:
 <br><br>
@@ -21,3 +21,10 @@ Made the schematic for the project and also decided a new feature of radio chann
 Log #3 (6/9/2025 IST)- 1/2 HOURS
 <br><br>
 Submitted the project idea and did more research about new functions that I may implement. 
+
+Log #4 (6/14/2025 IST) - 4 HOURS
+<br><br>
+Made a Rough Case Model of the Mp3 Player and wrote the code for the song uploader and the microcontroller,display etc.
+<br>
+![image](https://github.com/user-attachments/assets/23cc0325-7e31-461d-bcd6-75ee7be8f453)
+

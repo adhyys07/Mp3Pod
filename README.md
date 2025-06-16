@@ -22,11 +22,6 @@ Note: I have 3D case planned for this project but first i need to build this pro
 What Things Will Go where !!
 <br>
 
-<h3>3D Model</h3>
-
-![Screenshot 2025-06-14 052128](https://github.com/user-attachments/assets/d4ccd99e-8801-4b43-b946-1c75d4b99d58) ![Screenshot 2025-06-14 052121](https://github.com/user-attachments/assets/418939f7-5562-412d-b4ce-12024e22e939)
-![image](https://github.com/user-attachments/assets/0d5e2ac3-2495-4b1e-88b8-fcc6212ee637)
-
 <h3>Case With Comp.</h3>
 
 ![image](https://github.com/user-attachments/assets/7aeaac9b-0fbb-44f0-9098-b3c234e1e186)

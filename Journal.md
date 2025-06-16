@@ -6,7 +6,7 @@ created_at: "2025-06-6"
 ---
 
 
-<b>TOTAL HOURS : ROUGHLY 10</b>
+<b>TOTAL HOURS : ROUGHLY 12</b>
 <br><br>
 Log #1 (6/7/2025 IST) - 3 HOURS:
 <br><br>
@@ -27,4 +27,10 @@ Log #4 (6/14/2025 IST) - 4 HOURS
 Made a Rough Case Model of the Mp3 Player and wrote the code for the song uploader and the microcontroller,display etc.
 <br>
 ![image](https://github.com/user-attachments/assets/23cc0325-7e31-461d-bcd6-75ee7be8f453)
+
+Log #5 (6/16/2025 IST)- 2 HOURS
+<br><br>
+Added components in CAD file
+![image](https://github.com/user-attachments/assets/fb3dbb18-9048-4502-b615-b34ffda61bda)
+
 

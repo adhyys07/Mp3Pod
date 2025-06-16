@@ -10,7 +10,11 @@ Note: I have 3D case planned for this project but first i need to build this pro
 <br>
 <h3>FULL BUDGET</h3>
 
-![image](https://github.com/user-attachments/assets/5b50e2b9-62d5-4929-b169-29174d621b18)
+![Screenshot 2025-06-16 194621](https://github.com/user-attachments/assets/dac07719-a0c9-4350-9113-d65d78880bb5)
+
+
+
+
 
 <br>
 

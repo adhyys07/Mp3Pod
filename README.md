@@ -12,6 +12,8 @@ Note: I have 3D case planned for this project but first i need to build this pro
 
 ![Screenshot 2025-06-16 194621](https://github.com/user-attachments/assets/dac07719-a0c9-4350-9113-d65d78880bb5)
 
+*For Links of Components kindly view the Bom !
+
 
 
 

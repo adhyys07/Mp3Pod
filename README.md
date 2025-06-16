@@ -5,6 +5,9 @@ My Project name is Mp3Pod. It is pocket-sized mp3 player retrieving ipod memorie
 Hey there, so the Mp3Pod Works on a DFplayer which handles all the streaming work. The DFplayer consists of a SD card which will store the songs we listen in the mp3 format.To upload the songs there is a specific file to upload the songs in MP3 format. All the processing work is done by the Arduino Pro/Nano.The Dfplayer is connected to the audio jack and bt module which enables us to listen the song through wired/wireless headphones.DfPlayer is connected to an 1.3 inch OLED screen which makes GUI for easy operations and to select any song from the display. There is also a radio channel reciever which enables to tune into our favourite radio channels/frequencies. All this is operated by 300 MaH battery which can run 3 hours continuously without any problem.A TP4056 C-TYPE module is also installed which enables the mp3pod rechhargable
 <br>
 
+<h3>How will the soldered PCB fit inside</h3>
+So for the pcb mounting i am thinking to add two vertical spines in the lower case which will go from left to right on which the pcb will rest and get a strong support the width of the case is exact as PCB so there is no chance of moving left-right in any case. For assembling i am thinking add a think layer of magnet (not very strong) to attach the upper and lower lid of the Mp3Pod which will make it easy to demantle and easy repairs. The magnets will be of good quality so it doesn't impact electronics and maintain the bond of lower and upper case of Mp3pOD
+
 Note: I have 3D case planned for this project but first i need to build this project irl to get the exact dimensions and to get exact holes for the ports
 
 

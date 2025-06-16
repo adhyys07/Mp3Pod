@@ -31,6 +31,8 @@ Made a Rough Case Model of the Mp3 Player and wrote the code for the song upload
 Log #5 (6/16/2025 IST)- 2 HOURS
 <br><br>
 Added components in CAD file
+<br>
+
 ![image](https://github.com/user-attachments/assets/fb3dbb18-9048-4502-b615-b34ffda61bda)
 
 

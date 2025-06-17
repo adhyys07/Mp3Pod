@@ -39,6 +39,13 @@ What Things Will Go where !!
 
 ![image](https://github.com/user-attachments/assets/8ac1ec4f-5eef-4711-930b-ff718a163aa3)
 
+<br>
+<h3>Case with PCB mount and magnet positions(higlighted in blue)</h3>
+<br>
+
+![image](https://github.com/user-attachments/assets/483fdcc2-5cd2-426b-8767-4d588d8d8134)
+
+
 
 
 
